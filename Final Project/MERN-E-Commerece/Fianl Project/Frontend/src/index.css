@@ -1,0 +1,8 @@
+/* Example: Add this to your global styles or component styles */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
